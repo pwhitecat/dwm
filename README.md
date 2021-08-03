@@ -1,4 +1,9 @@
-# Putol's dwm (6.2)
+# Putol's dwm (6.2) 
+
+## !!! Under Development !!!
+
+#### Todo
+1. Add autostart patch
 
 ## About
 dwm is an extremely fast, small, and dynamic window manager for X created by [suckless guys](https://suckless.org/).
